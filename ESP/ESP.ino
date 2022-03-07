@@ -9,8 +9,6 @@
 
 
 byte counter =0;
-//const char ssid[] = "8b7ddISP";
-//const char password[] = "19381940";
 
 char* serial_tochar(int choose_data); 
 char* ssid;
